@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/grequo/static/css/main.5c82777e.chunk.css",
+    "main.js": "/grequo/static/js/main.f66d863d.chunk.js",
+    "main.js.map": "/grequo/static/js/main.f66d863d.chunk.js.map",
+    "runtime-main.js": "/grequo/static/js/runtime-main.0ef5e240.js",
+    "runtime-main.js.map": "/grequo/static/js/runtime-main.0ef5e240.js.map",
+    "static/js/2.53d1aedb.chunk.js": "/grequo/static/js/2.53d1aedb.chunk.js",
+    "static/js/2.53d1aedb.chunk.js.map": "/grequo/static/js/2.53d1aedb.chunk.js.map",
+    "index.html": "/grequo/index.html",
+    "static/css/main.5c82777e.chunk.css.map": "/grequo/static/css/main.5c82777e.chunk.css.map",
+    "static/js/2.53d1aedb.chunk.js.LICENSE.txt": "/grequo/static/js/2.53d1aedb.chunk.js.LICENSE.txt",
+    "static/media/Login.css": "/grequo/static/media/logo1.1758d60e.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ef5e240.js",
+    "static/js/2.53d1aedb.chunk.js",
+    "static/css/main.5c82777e.chunk.css",
+    "static/js/main.f66d863d.chunk.js"
+  ]
+}
