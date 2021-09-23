@@ -118,13 +118,8 @@ function Login() {
           <ArrowForwardIosIcon fontSize="small" />
         </div>
         <div className="login__footer">
-          <p>About</p>
-          <p>Languages</p>
-          <p>Careers</p>
-          <p>Businesses</p>
-          <p>Privacy</p>
-          <p>Terms</p>
-          <p>Contact</p>
+          
+         <a href="index1.html"> Contact Us</a>
           <p>&copy; Grequo 2021</p>
         </div>
       </div>
